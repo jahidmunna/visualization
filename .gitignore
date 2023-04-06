@@ -7,3 +7,4 @@ build/
 dist/
 config.ini
 secrets.ini
+.DS_Store
