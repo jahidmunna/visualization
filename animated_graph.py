@@ -59,5 +59,5 @@ class AnimatedHorizontalBarChart:
 
 if __name__ == '__main__':
     # Create an instance of the chart and animate it
-    chart = AnimatedHorizontalBarChart('gdf_sample.csv')
+    chart = AnimatedHorizontalBarChart('gdp_sample.csv')
     chart.animate_chart(save=True)
